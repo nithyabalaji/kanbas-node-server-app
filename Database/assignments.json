@@ -1,0 +1,137 @@
+[
+    {
+        "_id": "A101",
+        "title": "Propulsion Assignment",
+        "course": "RS101",
+        "description": "Learn about Propulsion",
+        "dueDate": "2023-01-10",
+        "availableFromDate": "2023-05-15",
+        "availableUntilDate": "2023-05-15"
+    },
+    {
+        "_id": "A102",
+        "title": "Combustion Analysis",
+        "course": "RS101",
+        "description": "Learn about Combustion Analysis",
+        "dueDate": "2023-01-10",
+        "availableFromDate": "2023-05-15",
+        "availableUntilDate": "2023-05-15"
+    },
+    {
+        "_id": "A103",
+        "title": "Nozzle Design Project",
+        "course": "RS101",
+        "description": "Learn about Nozzle Design through a Project",
+        "dueDate": "2023-01-10",
+        "availableFromDate": "2023-05-15",
+        "availableUntilDate": "2023-05-15"
+    },
+    {
+        "_id": "A201",
+        "title": "Aerodynamics Quiz",
+        "course": "RS102",
+        "description": "Quiz on Aerodynamics",
+        "dueDate": "2023-01-10",
+        "availableFromDate": "2023-05-15",
+        "availableUntilDate": "2023-05-15"
+    },
+    {
+        "_id": "A202",
+        "title": "Flow Analysis",
+        "course": "RS102",
+        "description": "Learn about Flow Analysis",
+        "dueDate": "2023-01-10",
+        "availableFromDate": "2023-05-15",
+        "availableUntilDate": "2023-05-15"
+    },
+    {
+        "_id": "A203",
+        "title": "Heating Analysis",
+        "course": "RS102",
+        "description": "Learn about Heating Analysis",
+        "dueDate": "2023-01-10",
+        "availableFromDate": "2023-05-15",
+        "availableUntilDate": "2023-05-15"
+    },
+    {
+        "_id": "A301",
+        "title": "Structural Design Task",
+        "course": "RS103",
+        "description": "Apply your Structural Design Knowledge",
+        "dueDate": "2023-01-10",
+        "availableFromDate": "2023-05-15",
+        "availableUntilDate": "2023-05-15"
+    },
+    {
+        "_id": "A302",
+        "title": "Orbital Calculations",
+        "course": "RS103",
+        "description": "Learn about Orbital Calculations",
+        "dueDate": "2023-01-10",
+        "availableFromDate": "2023-05-15",
+        "availableUntilDate": "2023-05-15"
+    },
+    {
+        "_id": "A303",
+        "title": "Systems Engineering Exam",
+        "course": "RS103",
+        "description": "Exam on Systems Engineering",
+        "dueDate": "2023-01-10",
+        "availableFromDate": "2023-05-15",
+        "availableUntilDate": "2023-05-15"
+    },
+    {
+        "_id": "A401",
+        "title": "A1 - HTML",
+        "course": "12631",
+        "description": "Learn about HTML",
+        "dueDate": "2023-01-10",
+        "availableFromDate": "2023-05-15",
+        "availableUntilDate": "2023-05-15"
+    },
+    {
+        "_id": "A402",
+        "title": "Q1 - HTML",
+        "course": "12631",
+        "description": "Quiz on HTML",
+        "dueDate": "2023-01-10",
+        "availableFromDate": "2023-05-15",
+        "availableUntilDate": "2023-05-15"
+    },
+    {
+        "_id": "A403",
+        "title": "A2 - CSS",
+        "course": "12631",
+        "description": "Learn about CSS",
+        "dueDate": "2023-01-10",
+        "availableFromDate": "2023-05-15",
+        "availableUntilDate": "2023-05-15"
+    },
+    {
+        "_id": "A501",
+        "title": "A1 - SETUP",
+        "course": "20040",
+        "description": "Setup your Environment",
+        "dueDate": "2023-01-10",
+        "availableFromDate": "2023-05-15",
+        "availableUntilDate": "2023-05-15"
+    },
+    {
+        "_id": "A502",
+        "title": "A2 - HTML + CSS",
+        "course": "20040",
+        "description": "Learn about HTML and CSS",
+        "dueDate": "2023-01-10",
+        "availableFromDate": "2023-05-15",
+        "availableUntilDate": "2023-05-15"
+    },
+    {
+        "_id": "A503",
+        "title": "EXAM 1",
+        "course": "20040",
+        "description": "Exam on HTML and CSS",
+        "dueDate": "2023-01-10",
+        "availableFromDate": "2023-05-15",
+        "availableUntilDate": "2023-05-15"
+    }
+]
